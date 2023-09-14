@@ -1,0 +1,7 @@
+.inicio{
+    --opacidad-negro: 0.5;
+    background-image: -moz-linear-gradient(rgba(0, 0, 0, var(--opacidad-negro))), url("../img/DreamShaper_v7_shiba_inu_con_sombrero_mexicano_color_cafe_hemb_0-_1_.webp");
+    background-position: center;
+background-size: cover;
+height:30rem;  
+}
